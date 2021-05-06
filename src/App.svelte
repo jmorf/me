@@ -17,19 +17,19 @@
 						/>
 					</div>
 					<div class="block">
-						<p class="text-2xl font-semibold tracking-wide">
+						<p class="text-4xl font-semibold tracking-wide">
 							Hi 👋🏼
 						</p>
 					</div>
 					<div class="block">
 						<h1
-							class="font-sans mt-1 text-3xl font-bold sm:text-5xl sm:tracking-tight lg:text-6xl"
+							class="font-sans mt-1 text-6xl font-bold sm:text-5xl sm:tracking-tight lg:text-6xl"
 						>
 							I'm James
 						</h1>
 					</div>
 					<div class="block">
-						<p class="text-xl">
+						<p class="text-center text-xl font-bold tracking-wider">
 							I like building stuff. Sometimes it works. Mostly it
 							doesn't.
 						</p>
