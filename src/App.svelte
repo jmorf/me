@@ -20,7 +20,8 @@
 						<h1
 							class="font-sans mt-1 text-6xl font-bold sm:text-5xl sm:tracking-tight lg:text-6xl"
 						>
-							👋🏼 I'm James
+							<span class="block md:inline-block">👋🏼</span>
+							<span class="block md:inline-block">I'm James</span>
 						</h1>
 					</div>
 					<div class="block">
