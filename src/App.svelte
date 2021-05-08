@@ -17,15 +17,10 @@
 						/>
 					</div>
 					<div class="block">
-						<p class="text-4xl font-semibold tracking-wide">
-							Hi 👋🏼
-						</p>
-					</div>
-					<div class="block">
 						<h1
 							class="font-sans mt-1 text-6xl font-bold sm:text-5xl sm:tracking-tight lg:text-6xl"
 						>
-							I'm James
+							👋🏼 I'm James
 						</h1>
 					</div>
 					<div class="block">
@@ -34,14 +29,17 @@
 							doesn't.
 						</p>
 					</div>
-					<div class="block">
+					<div class="block max-w-3xl mx-auto">
 						<p class="text-base">
-							I'm a developer, founder, and investor. I've
-							invested in more the 50 start-ups and helped build
-							companies in the Cyber Security, HR, Domain Name,
-							and Brand Protection spaces. I like building new
-							things, hacking on side projects, learning from
-							other peoples mistakes and teaching from my own.
+							I'm a developer of questionable skill, sometime
+							entrepreneur, and reluctant angel investor. I
+							somehow tripped and helped build companies in
+							verticals like Cyber Security, HR, Real Estate, and
+							Domain Names. I've also invested in a bunch of
+							start-ups built by people much smarter than me. I
+							like building new things, hacking on side projects,
+							learning from other peoples mistakes and teaching
+							from my own.
 						</p>
 					</div>
 					<div class="block">
