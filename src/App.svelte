@@ -11,7 +11,7 @@
 				<div class="space-y-8">
 					<div class="block">
 						<img
-							class="w-64 md:w-72 lg:w-96 rounded-full ring-4 ring-white object-center mx-auto hover:opacity-25 transition-opacity duration-1000 ease-out"
+							class="w-64 h-64 md:w-72 md:h-64 lg:w-96 lg:h-96 rounded-full ring-4 ring-white object-center mx-auto hover:opacity-25 transition-opacity duration-1000 ease-out"
 							src="james_slide.jpg"
 							alt="James Morfopoulos Slide"
 						/>
