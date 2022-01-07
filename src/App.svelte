@@ -34,9 +34,9 @@
 </svelte:head>
 
 <main class="container">
-	<div class="grid">
-		<div>
-			<section>
+	<section>
+		<div class="grid">
+			<div>
 				<hgroup>
 					<h1>👋🏼 I'm James</h1>
 					<p>
@@ -96,18 +96,16 @@
 					projects, learning from other peoples mistakes and teaching
 					from my own.
 				</p>
-			</section>
-		</div>
-		<div class="center">
-			<section>
+			</div>
+			<div class="center">
 				<img
 					class="profile"
-					src="img/james_slide.jpg"
+					src="img/james_slide_sm.jpg"
 					alt="James Morfopoulos"
 				/>
-			</section>
+			</div>
 		</div>
-	</div>
+	</section>
 	<Companies />
 	<Footer />
 </main>
