@@ -2,6 +2,8 @@
     <p>
         <small>&copy; None. Do what you like with this page. ✌🏼</small>
     </p>
+</section>
+<section>
     <p>
         <small>
             Built with <a href="https://picocss.com/" class="contrast">Pico</a>,

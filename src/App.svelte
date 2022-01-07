@@ -1,7 +1,6 @@
 <script>
 	import Footer from "./Footer.svelte";
 	import Companies from "./Companies.svelte";
-	export let name;
 </script>
 
 <main class="container">
@@ -82,13 +81,3 @@
 	<Companies />
 	<Footer />
 </main>
-
-<svelte:head>
-	<title>James Morfopoulos</title>
-	<meta
-		name="description"
-		content="James Morfopoulos. I like building stuff. Sometimes it works. Mostly it
-	doesn't."
-	/>
-	<html lang="en" />
-</svelte:head>

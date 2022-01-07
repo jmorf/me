@@ -10,8 +10,8 @@ body {
 img.profile {
   border: 4px solid #FFF;
   border-radius: 50%;
-  height: auto;
-  width: auto;
+  height: 20rem;
+  width: 20rem;
   max-width: 20rem;
 }
 
