@@ -1,5 +1,5 @@
-<footer>
-    <div>
+<section>
+    <p>
         <a href="https://twitter.com/jmorf" class="contrast">
             <svg class="socials" viewBox="0 0 24 24" aria-hidden="true">
                 <path
@@ -25,20 +25,18 @@
                 />
             </svg>
         </a>
-    </div>
-    <div>
-        <p><small>&copy; None. Do what you like with this page. ✌🏼</small></p>
-        <p>
-            <small>
-                Built with <a href="https://svelte.dev/" class="contrast"
-                    >Svelte</a
-                >
-                &
-                <a href="https://pages.cloudflare.com/" class="contrast"
-                    >Cloudflare Pages</a
-                > ❤️. I choose Svelte because every other JS framework I tried made
-                me 🤮.
-            </small>
-        </p>
-    </div>
-</footer>
+    </p>
+    <p>
+        <small>&copy; None. Do what you like with this page. ✌🏼</small>
+    </p>
+    <p>
+        <small>
+            Built with <a href="https://svelte.dev/" class="contrast">Svelte</a>
+            &
+            <a href="https://pages.cloudflare.com/" class="contrast"
+                >Cloudflare Pages</a
+            > ❤️. I choose Svelte because every other JS framework I tried made me
+            🤮.
+        </small>
+    </p>
+</section>
