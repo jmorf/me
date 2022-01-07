@@ -13,8 +13,7 @@
     </p>
     <p>
         <small
-            >I choose Svelte because every other JS framework I tried made me
-            🤮.
+            >I chose Svelte because every other JS framework I tried made me 🤮.
         </small>
     </p>
 </section>
