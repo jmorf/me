@@ -6,7 +6,11 @@
 
 <main class="container">
 	<section>
-		<img class="profile" src="james_slide.jpg" alt="James Morfopoulos" />
+		<img
+			class="profile"
+			src="img/james_slide.jpg"
+			alt="James Morfopoulos"
+		/>
 	</section>
 	<section>
 		<hgroup>

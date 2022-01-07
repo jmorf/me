@@ -1,5 +1,5 @@
 <section>
-    <h3>A few companies I've been involved in:</h3>
+    <h4>A few companies I've been involved in:</h4>
     <div class="grid">
         <div class="center">
             <img class="company" src="img/cheakamus.png" alt="Cheakamus" />
