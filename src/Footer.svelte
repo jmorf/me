@@ -1,6 +1,6 @@
 <section>
     <p>
-        <small>&copy; None. Do what you like with this page. ✌🏼</small>
+        <small>&copy; None. Do what you like with this page ✌🏼.</small>
     </p>
     <p>
         <small>

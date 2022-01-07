@@ -11,9 +11,8 @@ body {
 img.profile {
   border: 4px solid #FFF;
   border-radius: 50%;
-  height: 20rem;
-  width: 20rem;
-  max-width: 20rem;
+  height: auto;
+  width: 18rem;
 }
 
 img.company {
