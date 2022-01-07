@@ -8,15 +8,6 @@
 	<div class="grid">
 		<div>
 			<section>
-				<img
-					class="profile"
-					src="img/james_slide.jpg"
-					alt="James Morfopoulos"
-				/>
-			</section>
-		</div>
-		<div>
-			<section>
 				<hgroup>
 					<h1>👋🏼 I'm James</h1>
 					<p>
@@ -76,6 +67,15 @@
 					projects, learning from other peoples mistakes and teaching
 					from my own.
 				</p>
+			</section>
+		</div>
+		<div class="center">
+			<section>
+				<img
+					class="profile"
+					src="img/james_slide.jpg"
+					alt="James Morfopoulos"
+				/>
 			</section>
 		</div>
 	</div>
