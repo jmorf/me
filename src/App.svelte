@@ -4,6 +4,38 @@
 	export let name;
 </script>
 
+<main class="container">
+	<section>
+		<img
+			class="w-64 h-64 md:w-72 md:h-64 lg:w-96 lg:h-96 rounded-full ring-4 ring-white object-center mx-auto hover:opacity-25 transition-opacity duration-1000 ease-out"
+			src="james_slide.jpg"
+			alt="James Morfopoulos Slide"
+		/>
+	</section>
+	<section>
+		<hgroup />
+		<h1>👋🏼 I'm James</h1>
+		<p>I like building stuff. Sometimes it works. Mostly it doesn't.</p>
+	</section>
+	<section>
+		<p>
+			I'm a developer of questionable skill, sometime entrepreneur, and
+			reluctant angel investor. I somehow tripped and helped build
+			companies in verticals like Cyber Security, HR, Real Estate, and
+			Domain Names. I've also invested in a bunch of start-ups built by
+			people much smarter than me. I like building new things, hacking on
+			side projects, learning from other peoples mistakes and teaching
+			from my own.
+		</p>
+	</section>
+	<section>
+		<Companies />
+	</section>
+	<section>
+		<Footer />
+	</section>
+</main>
+
 <main>
 	<div class="h-full w-full bg-gray-800 text-white font-sans text-center">
 		<div class="container max-w-5xl px-4 mx-auto ">
