@@ -1,4 +1,18 @@
+body {
+  color: #FFF;
+}
+
 .center {
     display: flex;
     justify-content: center;
   }
+
+img.round {
+  border: 4px solid #FFF;
+  border-radius: 50%;
+}
+
+img.company {
+  color: #FFF;
+  height: 3rem;
+}

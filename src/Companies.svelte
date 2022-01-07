@@ -1,42 +1,30 @@
-<p class="text-center text-xl font-bold tracking-wider">
-    A few companies I've been involved in
-</p>
-<div
-    class="mt-6 grid grid-cols-2 gap-0.5 md:grid-cols-3 lg:mt-8 place-self-center"
->
-    <div class="col-span-1 flex justify-center py-8 px-8">
-        <img class="max-h-12 object-contain" src="cheakamus.png" alt="Titan" />
+<h2>A few companies I've been involved in</h2>
+<div class="grid">
+    <div>
+        <img class="company" src="img/cheakamus.png" alt="Cheakamus" />
     </div>
-    <div class="col-span-1 flex justify-center py-8 px-8">
-        <img class="max-h-12 object-contain" src="strong.svg" alt="Logo.com" />
+    <div>
+        <img class="company" src="img/strong.svg" alt="Strong Investments" />
     </div>
-    <div class="col-span-1 flex justify-center py-8 px-8">
-        <img class="max-h-12 object-contain" src="titan.svg" alt="Titan" />
+    <div>
+        <img class="company" src="img/titan.svg" alt="Titan Research" />
     </div>
-    <div class="col-span-1 flex justify-center py-8 px-8">
-        <img class="max-h-12 object-contain" src="logo.svg" alt="Logo.com" />
+</div>
+<div class="grid">
+    <div>
+        <img class="company" src="img/logo.svg" alt="Logo.com" />
     </div>
-    <div class="col-span-1 flex justify-center py-8 px-8">
-        <img
-            class="max-h-12 object-contain"
-            src="ocean.png"
-            alt="Ocean Networks"
-        />
+    <div>
+        <img class="company" src="img/ocean.png" alt="Ocean Networks" />
     </div>
-    <div class="col-span-1 flex justify-center py-8 px-8">
-        <img
-            class="max-h-12 object-contain"
-            src="resume.png"
-            alt="Resume.com"
-        />
+    <div>
+        <img class="company" src="img/resume.png" alt="Resume.com" />
     </div>
-    <div class="col-span-1 flex justify-center py-8 px-8" />
-    <div class="col-span-1 flex justify-center py-8 px-8">
-        <img
-            class="max-h-12 object-contain"
-            src="namescon.png"
-            alt="NamesCon"
-        />
+</div>
+<div class="grid">
+    <div />
+    <div>
+        <img class="company" src="img/namescon.png" alt="NamesCon" />
     </div>
-    <div class="col-span-1 flex justify-center py-8 px-8" />
+    <div />
 </div>
