@@ -14,5 +14,13 @@ img.round {
 
 img.company {
   color: #FFF;
-  height: 3rem;
+  max-height: 3rem;
+  max-width: 75%;
+  height: auto;
+  width: auto;
+}
+
+svg.socials{
+  color: #FFF;
+  height: 2rem;
 }
