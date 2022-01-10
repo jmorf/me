@@ -72,6 +72,7 @@
 				class="profile"
 				src="img/james_slide_sm.jpg"
 				alt="James Morfopoulos"
+				loading="lazy"
 			/>
 		</div>
 	</div>

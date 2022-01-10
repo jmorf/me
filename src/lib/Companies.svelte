@@ -14,6 +14,7 @@
 				class="company"
 				src="img/strong.svg"
 				alt="Strong Investments"
+				loading="lazy"
 			/>
 		</div>
 		<div class="center">
