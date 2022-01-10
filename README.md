@@ -25,7 +25,7 @@ npm run start
 
 ## Deploying
 
-Just `commit`, and `push`, to auto-deploy with Github Actions.
+Just `commit` and `push` to auto-deploy with Github Actions.
 
 ## Built With
 
