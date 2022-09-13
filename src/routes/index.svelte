@@ -17,15 +17,18 @@
 <Meta {...meta_data} />
 
 <section>
-	<div class="grid">
-		<div>
-			<hgroup>
-				<h1>👋🏼 I'm James</h1>
-				<p>
-					I like building stuff. Sometimes it works. Mostly it
-					doesn't.
-				</p>
-			</hgroup>
+	<div>
+		<div class="inline">
+			<img
+				class="profile"
+				src="img/james_slide_sm.jpg"
+				alt="James Morfopoulos"
+				loading="eager"
+			/>
+		</div>
+		<div class="inline">
+			<h1>I'm James 👋🏼</h1>
+			<p>I like building stuff. Sometimes it works. Mostly it doesn't.</p>
 			<p>
 				<a href="https://twitter.com/jmorf" class="contrast">
 					<svg class="socials" viewBox="0 0 24 24" aria-hidden="true">
@@ -56,25 +59,20 @@
 					</svg>
 				</a>
 			</p>
-
-			<p>
-				I'm a developer of questionable skill, sometime entrepreneur,
-				and reluctant angel investor. I somehow tripped and helped build
-				companies in verticals like Cyber Security, HR, Real Estate, and
-				Domain Names. I've also invested in a bunch of start-ups built
-				by people much smarter than me. I like building new things,
-				hacking on side projects, learning from other peoples mistakes
-				and teaching from my own.
-			</p>
-		</div>
-		<div class="center">
-			<img
-				class="profile"
-				src="img/james_slide_sm.jpg"
-				alt="James Morfopoulos"
-				loading="eager"
-			/>
 		</div>
 	</div>
 </section>
+<hr />
+<section>
+	<p>
+		I'm a developer of questionable skill, sometime entrepreneur, and
+		reluctant angel investor. I somehow tripped and helped build companies
+		in verticals like Cyber Security, HR, Real Estate, and Domain Names.
+		I've also invested in a bunch of start-ups built by people much smarter
+		than me. I like building new things, hacking on side projects, learning
+		from other peoples mistakes and teaching from my own.
+	</p>
+</section>
+<hr />
 <Companies />
+<hr />

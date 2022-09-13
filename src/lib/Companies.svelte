@@ -1,5 +1,5 @@
 <section>
-	<h4>A few companies I've been involved in:</h4>
+	<p><strong>A few companies I've been involved in:</strong></p>
 	<div class="grid">
 		<div class="center">
 			<img

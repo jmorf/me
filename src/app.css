@@ -1,3 +1,9 @@
+:root:not([data-theme=light]) {
+    --typography-spacing-vertical: 1rem;
+    --block-spacing-vertical: 1rem;
+}
+
+
 body {
     color: #fff;
 }
@@ -8,11 +14,19 @@ body {
     align-items: center;
 }
 
+.inline {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    margin-right: .5rem;
+}
+
 img.profile {
     border: 4px solid #fff;
     border-radius: 50%;
-    height: auto;
-    width: 18rem;
+    height: 12rem;
+    width: auto;
 }
 
 img.company {
@@ -29,4 +43,19 @@ svg.socials {
     color: #fff;
     height: 1.5rem;
     margin-right: 1rem;
+}
+
+hr {
+    border: .1rem solid white;
+    color: white;
+    background: white;
+}
+
+section {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+h1 {
+    margin-bottom: .2rem;
 }
