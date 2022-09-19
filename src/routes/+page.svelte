@@ -1,9 +1,3 @@
-<script context="module">
-	export const prerender = true;
-	export const hydrate = false;
-	export const router = false;
-</script>
-
 <script>
 	import Companies from "$lib/Companies.svelte";
 	import Meta from "$lib/Meta.svelte";
